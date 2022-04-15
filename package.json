@@ -1,0 +1,14 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js,"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-util-is": "^1.0.3"
+  }
+}
